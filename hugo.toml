@@ -1,0 +1,4 @@
+baseURL = 'https://fallenstone.com/'
+languageCode = 'en-us'
+title = 'Fallen Stone - elevated design'
+theme = 'basic'
