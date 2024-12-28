@@ -1,0 +1,9 @@
+{
+	"name": "Fallen Stone",
+	"version": "1.0.0",
+	"description": "elevated design",
+	"private": true,
+	"scripts": {
+		"build": "hugo --cleanDestinationDir"
+	}
+}
